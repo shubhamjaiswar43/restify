@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/shubhamjaiswar43/restaurant-management/internal/helper"
+	"github.com/shubhamjaiswar43/restify/internal/helper"
 )
 
 // AuthMiddleware checks JWT and user roles

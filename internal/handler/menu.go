@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/shubhamjaiswar43/restaurant-management/internal/auth"
-	"github.com/shubhamjaiswar43/restaurant-management/internal/helper"
-	"github.com/shubhamjaiswar43/restaurant-management/internal/storage/mongodb"
-	"github.com/shubhamjaiswar43/restaurant-management/internal/types"
+	"github.com/shubhamjaiswar43/restify/internal/auth"
+	"github.com/shubhamjaiswar43/restify/internal/helper"
+	"github.com/shubhamjaiswar43/restify/internal/storage/mongodb"
+	"github.com/shubhamjaiswar43/restify/internal/types"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 

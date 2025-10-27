@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/shubhamjaiswar43/restaurant-management/internal/config"
+	"github.com/shubhamjaiswar43/restify/internal/config"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )

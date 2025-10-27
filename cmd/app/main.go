@@ -9,10 +9,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/shubhamjaiswar43/restaurant-management/internal/auth"
-	"github.com/shubhamjaiswar43/restaurant-management/internal/config"
-	"github.com/shubhamjaiswar43/restaurant-management/internal/handler"
-	"github.com/shubhamjaiswar43/restaurant-management/internal/storage/mongodb"
+	"github.com/shubhamjaiswar43/restify/internal/auth"
+	"github.com/shubhamjaiswar43/restify/internal/config"
+	"github.com/shubhamjaiswar43/restify/internal/handler"
+	"github.com/shubhamjaiswar43/restify/internal/storage/mongodb"
 )
 
 func rootMessage(w http.ResponseWriter, r *http.Request) {

@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/shubhamjaiswar43/restaurant-management/internal/types"
+	"github.com/shubhamjaiswar43/restify/internal/types"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

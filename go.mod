@@ -1,4 +1,4 @@
-module github.com/shubhamjaiswar43/restaurant-management
+module github.com/shubhamjaiswar43/restify
 
 go 1.24.0
 
